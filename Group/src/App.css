@@ -1,0 +1,7 @@
+.lists{
+  list-style: none;
+  margin-left: 650px;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  gap: 5px;
+}
